@@ -1,0 +1,9 @@
+{
+	"name": "adfaalouis",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af4f308c-556b-448e-9a8d-3a233050af8b",
+		"tenantId": "17ac102a-c062-4522-bc5b-3ccb8d3a56d4"
+	}
+}
